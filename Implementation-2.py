@@ -1,4 +1,4 @@
-import booste
+import banana_dev as banana
 from tkinter import * 
 from tkinter import messagebox
 root=Tk()
@@ -6,9 +6,10 @@ root=Tk()
 def myClick():
      if len(e1.get())!=0:
       messagebox.showwarning("Story Generator", "Takes upto 5 min for GPT XL Model to compute")
-     mhmm=e1.get()
-     out_list = booste.gpt2_xl("275dec85-c4c8-419c-b524-9bbd26421d6b", mhmm, 10)
-     myLabel3=Label(root,text=out_list)
+     model_parameters = { "text": e1.get(), "length": 50, "temperature": 0.9, "topK": 50, "topP": 0.9}
+     out_list = banana.run("275dec85-c4c8-419c-b524-9bbd26421d6b","gptj",model_parameters)
+     temp = (out_list['modelOutputs'][0])
+     myLabel3 = Label(root,text = temp)
      myLabel3.pack()
      
           
