@@ -46,9 +46,12 @@ If you have not already, download and install python3 python3-tk and pip3
 
 
 
-![Untitled presentation](https://user-images.githubusercontent.com/33974452/158008656-848bd786-8c4d-4a7c-bb64-2bdf247a0c05.png)
-![Untitled presentation (1)](https://user-images.githubusercontent.com/33974452/158008660-5fa64225-666a-432c-a543-f682e9fadbfe.png)
-![Untitled presentation (3)](https://user-images.githubusercontent.com/33974452/158008666-b832960f-4413-42fb-b49f-6d35432493ae.png)
+
+/home/acer/Downloads/Untitled presentation.svg![image](https://user-images.githubusercontent.com/33974452/158100758-59cf5a3c-37d4-4e61-85a0-3f168bba1705.png)
+![Untitled presentation (3)-svg](https://user-images.githubusercontent.com/33974452/158101493-22c25987-4edd-411f-9fbb-0096bc8d1a31.svg)
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
