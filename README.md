@@ -44,10 +44,7 @@ If you have not already, download and install python3 python3-tk and pip3
 
 ## Demo
 
-
-
-
-/home/acer/Downloads/Untitled presentation.svg![image](https://user-images.githubusercontent.com/33974452/158100758-59cf5a3c-37d4-4e61-85a0-3f168bba1705.png)
+![image](https://user-images.githubusercontent.com/33974452/158100758-59cf5a3c-37d4-4e61-85a0-3f168bba1705.png)
 ![Untitled presentation (3)-svg](https://user-images.githubusercontent.com/33974452/158101493-22c25987-4edd-411f-9fbb-0096bc8d1a31.svg)
 
 
